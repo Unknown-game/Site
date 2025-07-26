@@ -59,7 +59,7 @@ const gameData = {
   "Raft": {
     title: "Raft",
     description: "É um jogo de sobrevivência em mundo aberto, onde o jogador deve explorar um oceano vasto, construir uma jangada flutuante, coletar recursos, enfrentar desafios e sobreviver a perigos como tubarões famintos.",
-    download: "<a href='https://tech.animerigel.com/YywIcyW' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/H42Xphij' target='_blank'>⬇️ Parte 2</a> | <a href='https://tech.animerigel.com/At6N' target='_blank'>⬇️ Parte 3</a> | <a href='https://tech.animerigel.com/ZOlSBhaY' target='_blank'>⬇️ Parte 4</a> | <a href='https://tech.animerigel.com/mx0OTzP' target='_blank'>⬇️ Parte 5</a>"
+    download: "<a href='https://tech.animerigel.com/YywIcyW' target='_blank'>⬇️ Baixar Raft</a>"
   },
   "Dragon Ball:Sparking! ZERO": {
     title: "Dragon Ball:Sparking! ZERO",
