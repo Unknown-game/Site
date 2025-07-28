@@ -5,7 +5,6 @@ const gameData = {
     download: "<a href='https://tech.animerigel.com/qRHV5' target='_blank'>⬇️ Baixar R.E.P.O.</a>",
     description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10<br>Processador: Intel Core i5-6600<br>Memória RAM: 8 GB<br>Placa de Vídeo: NVIDIA GeForce GTX 970 (4GB VRAM)<br>DirectX: Versão 10<br>Amazernamento: 1 GB disponível"
   },
-  
   "Peak": {
     title: "Peak",
     description: "É um jogo cooperativo de escalada, onde jogadores trabalham juntos para sobreviver e alcançar o topo de uma montanha em constante mudança.",
@@ -39,14 +38,14 @@ const gameData = {
   "Stray": {
     title: "Stray",
     description: "É um jogo de aventura em terceira pessoa que coloca o jogador no controle de um gato de rua em uma cidade cibernética decadente",
-    download: "<a href='https://tech.animerigel.com/Stray' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/Stray2' target='_blank'>⬇️ Parte 2</a>"
+    download: "<a href='https://tech.animerigel.com/Stray' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/Stray2' target='_blank'>⬇️ Parte 2</a>",
+    description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10<br>Processador: Intel Core i5-2300 | AMD FX-6350<br>Memória: 8 GB de RAM<br>Placa de vídeo: NVIDIA GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB<br>DirectX: Versão 12<br>Armazenamento: 10 GB de espaço disponível"
   },
   "Drive Beyond Herizons": {
     title: "Drive Beyond Herizons",
     description: "É um jogo de exploração e aventura em mundo aberto, onde os jogadores podem dirigir veículos personalizáveis por paisagens extensas e geradas processualmente.",
     download: "<a href='https://tech.animerigel.com/hhbmTs' target='_blank'>⬇️ Baixar Drive Beyond Herizons</a>",
-    description2: "⚠️REQUISITOS MINIMOS⚠️<BR>Sistema Operacional: Windows 10 ou 11 (64 bits)<br>Processador: Intel Core i5-6600 ou AMD Ryzen 5 1600X<br>Memória: 8 GB de RAM<br>Placa de Vídeo: NVIDIA GeForce GTX 1650 ou equivalente<br>tamanho:7.3 GB<br>ESPAÇO LIVRE EM DISCO 15 GB"
-
+    description2: "⚠️REQUISITOS MINIMOS⚠️<BR>SO: Windows 10/11 (64-Bit)<br>Processador: Intel Core i5-6600@ 3.1 GHz or AMD R5 1600X @ 3.5 GHz or equivalent<br>Memória: 8 GB de RAM<br>Placa de vídeo: NVIDIA GeForce GTX 1650 or equivalent<br>Armazenamento: 15 GB de espaço disponível"
   },
   "Cuphead": {
     title: "Cuphead",
@@ -54,7 +53,6 @@ const gameData = {
     download: "<a href='https://tech.animerigel.com/EYCdlwh' target='_blank'>⬇️ Baixar Cuphead</a>",
     description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO *: Windows 7<br>Processador: Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher<br>Memória: 3 GB de RAM<br>Placa de vídeo: Geforce 9600 GT or AMD HD 3870 512MB or higher<br>DirectX: Versão 11<br>Armazenamento: 4 GB de espaço disponível"
     },
-    
   "PokéMMO": {
     title: "PokéMMO",
     description: "É um jogo online multijogador massivo (MMO) baseado nos jogos clássicos de Pokémon, permitindo que jogadores explorem o mundo, lutem e troquem Pokémon com amigos e outros jogadores ao redor do mundo.",
