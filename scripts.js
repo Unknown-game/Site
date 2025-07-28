@@ -2,33 +2,39 @@ const gameData = {
   "R.E.P.O.": {
     title: "R.E.P.O.",
     description: "É um jogo de terror cooperativo online onde até seis jogadores trabalham juntos para recuperar objetos valiosos de ambientes assombrados.",
-    download: "<a href='https://tech.animerigel.com/qRHV5' target='_blank'>⬇️ Baixar R.E.P.O.</a>"
+    download: "<a href='https://tech.animerigel.com/qRHV5' target='_blank'>⬇️ Baixar R.E.P.O.</a>",
+    description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10<br>Processador: Intel Core i5-6600<br>Memória RAM: 8 GB<br>Placa de Vídeo: NVIDIA GeForce GTX 970 (4GB VRAM)<br>DirectX: Versão 10<br>Amazernamento: 1 GB disponível"
   },
   
   "Peak": {
     title: "Peak",
     description: "É um jogo cooperativo de escalada, onde jogadores trabalham juntos para sobreviver e alcançar o topo de uma montanha em constante mudança.",
-    download: "<a href='https://tech.animerigel.com/Peak' target='_blank'>⬇️ Baixar Peak</a>"
+    download: "<a href='https://tech.animerigel.com/Peak' target='_blank'>⬇️ Baixar Peak</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 (64 bits)<br>Processador: Intel Core i5 @ 2.5 GHz ou equivalente<br>Memória RAM: 8GB<br>Placa de vídeo: NVIDIA GeForce GTX 1050 Ti ou AMD Radeon R9 380<br>DirectX: versão 12<br>Armazenamento: 4GB livres"
   },
   "Palworld": {
     title: "Palworld",
     description: "É um jogo de sobrevivência e crafting em mundo aberto, onde os jogadores exploram um ambiente hostil com criaturas chamadas Pals.",
-    download: "<a href='https://tech.animerigel.com/Palworld' target='_blank'>⬇️ Baixar Palworld</a>"
+    download: "<a href='https://tech.animerigel.com/Palworld' target='_blank'>⬇️ Baixar Palworld</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 or later (64-Bit)<br>Processador: i5-3570K 3.4 GHz 4 Core<br>Memória: 16 GB de RAM<br>Placa de vídeo: GeForce GTX 1050 (2GB)<br>DirectX: Versão 11<br>Armazenamento: 40 GB de espaço disponível"
   },
   "Devour": {
     title: "Devour",
     description: "É um jogo de terror cooperativo para 1 a 4 jogadores onde o objetivo é impedir que líderes de culto possuídos arrastem os jogadores para o inferno",
-    download: "<a href='https://tech.animerigel.com/Devour' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/Devour2' target='_blank'>⬇️ Parte 2</a>"
+    download: "<a href='https://tech.animerigel.com/Devour' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/Devour2' target='_blank'>⬇️ Parte 2</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 - 64 bit<br>Processador: Intel i5 or new-gen i3 / AMD equivalent<br>Memória: 8 GB de RAM<br>Placa de vídeo: NVIDIA GTX 970 / AMD Radeon R9 290<br>DirectX: Versão 11<br>Armazenamento: 10 GB de espaço disponível"
   },
   "Outlast": {
     title: "Outlast",
     description: "É um jogo de terror em primeira pessoa onde o jogador assume o papel do jornalista independente Miles Upshur, que investiga um asilo de doentes mentais chamado Mount Massive, nas montanhas do Colorado.",
-    download: "<a href='https://tech.animerigel.com/Outlast' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/Outlast2' target='_blank'>⬇️ Parte 2</a>"
+    download: "<a href='https://tech.animerigel.com/Outlast' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/Outlast2' target='_blank'>⬇️ Parte 2</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows XP / Vista / 7 / 8 - 64 bits<br>Processador: 2.2 GHz Dual Core CPU<br>Memória: 2 GB de RAM<br>Placa de vídeo: 512 MB NVIDIA GeForce 9800GTX / ATI Radeon HD 3xxx series<br>DirectX: Versão 9.0c<br>Armazenamento: 5 GB de espaço disponível"
   },
   "Grounded": {
     title: "Grounded",
     description: "Sobrevivência em um quintal onde você é do tamanho de uma formiga.",
-    download: "<a href='https://tech.animerigel.com/Grounded' target='_blank'>⬇️ Baixar Grounded</a>"
+    download: "<a href='https://tech.animerigel.com/Grounded' target='_blank'>⬇️ Baixar Grounded</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 64bits<br>Processador: Intel Core i3-3225<br>Memória: 4 GB de RAM<br>Placa de vídeo: Nvidia GTX 650 Ti<br>Armazenamento: 8 GB de espaço disponível"
   },
   "Stray": {
     title: "Stray",
@@ -38,12 +44,15 @@ const gameData = {
   "Drive Beyond Herizons": {
     title: "Drive Beyond Herizons",
     description: "É um jogo de exploração e aventura em mundo aberto, onde os jogadores podem dirigir veículos personalizáveis por paisagens extensas e geradas processualmente.",
-    description2: "⚠️ Para baixar, use o link Magnet em seu cliente torrent.  Senha:online-fix.me ⚠️ magnet:xt=urn:btih:60ac50b1fe5959c8b6843391aa9a674a0f298fa6&dn=Drive%20Beyond%20Horizons&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337"
+    download: "<a href='https://tech.animerigel.com/hhbmTs' target='_blank'>⬇️ Baixar Drive Beyond Herizons</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<BR>Sistema Operacional: Windows 10 ou 11 (64 bits)<br>Processador: Intel Core i5-6600 ou AMD Ryzen 5 1600X<br>Memória: 8 GB de RAM<br>Placa de Vídeo: NVIDIA GeForce GTX 1650 ou equivalente<br>tamanho:7.3 GB<br>ESPAÇO LIVRE EM DISCO 15 GB"
+
   },
   "Cuphead": {
     title: "Cuphead",
     description: "É um clássico jogo de ação de corridas e armas altamente focalizado em batalhas de chefes.",
-    download: "<a href='https://tech.animerigel.com/EYCdlwh' target='_blank'>⬇️ Baixar Cuphead</a>"
+    download: "<a href='https://tech.animerigel.com/EYCdlwh' target='_blank'>⬇️ Baixar Cuphead</a>",
+    description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO *: Windows 7<br>Processador: Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher<br>Memória: 3 GB de RAM<br>Placa de vídeo: Geforce 9600 GT or AMD HD 3870 512MB or higher<br>DirectX: Versão 11<br>Armazenamento: 4 GB de espaço disponível"
     },
     
   "PokéMMO": {
@@ -54,17 +63,20 @@ const gameData = {
   "Resident Evil 4  REMAKE": {
     title: "Resident Evil 4  REMAKE",
     description: "É uma reimaginação do clássico jogo de 2005, oferecendo uma experiência de terror de sobrevivência modernizada com gráficos, jogabilidade e enredo atualizados.",
-    description2: "⚠️ Para baixar, use o link Magnet em seu cliente torrent.⚠️   magnet:?xt=urn:btih:A4349A511DAFAA704C33A25065C34AB980803707&dn=Resident.Evil.4-EMPRESS&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 (64‑bit)<br>Processador: AMD Ryzen 3 1200 / Intel Core i5‑7500<br>Memória RAM: 8 GB<br>placa de video: NVIDIA GeForce GTX 760 (2 GB), AMD Radeon RX 560 (2 GB)<br>DirectX: Versão 12<br>Armazenamento: 67 GB",
+    download: "<a href='https://tech.animerigel.com/3RG6O' target='_blank'>⬇️ Arquivo torrent Resident Evil 4  REMAKE</a>"
   },
   "Raft": {
     title: "Raft",
     description: "É um jogo de sobrevivência em mundo aberto, onde o jogador deve explorar um oceano vasto, construir uma jangada flutuante, coletar recursos, enfrentar desafios e sobreviver a perigos como tubarões famintos.",
-    download: "<a href='https://tech.animerigel.com/YywIcyW' target='_blank'>⬇️ Baixar Raft</a>"
+    download: "<a href='https://tech.animerigel.com/YywIcyW' target='_blank'>⬇️ Baixar Raft</a>",
+    description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO *: Windows 7 or later<br>Processador: Intel Core i5 2.6GHz or similar<br>Memória: 6 GB de RAM<br>Placa de vídeo: GeForce GTX 700 series or similar<br>DirectX: Versão 11<br>Armazenamento: 10 GB de espaço disponível"
   },
   "Dragon Ball:Sparking! ZERO": {
     title: "Dragon Ball:Sparking! ZERO",
     description: "Torna-te um Super Guerreiro e vive as batalhas destrutivas e sem limites que celebrizaram o Dragon Ball!",
-    download: "<a href='https://tech.animerigel.com/QMie' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/uaRTt' target='_blank'>⬇️ Parte 2</a>"
+    download: "<a href='https://tech.animerigel.com/QMie' target='_blank'>⬇️ Parte 1</a> | <a href='https://tech.animerigel.com/uaRTt' target='_blank'>⬇️ Parte 2</a>",
+    description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10<br>Processador: Intel Core i5-9600K / AMD Ryzen 5 2600<br>Memória: 8 GB de RAM<br>Placa de vídeo: Nvidia GeForce GTX 980 / AMD Radeon RX 590 / Intel Arc A750<br>DirectX: Versão 12<br>Armazenamento: 29 GB de espaço disponível"
   },
 };
 
