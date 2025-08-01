@@ -2,19 +2,19 @@ const gameData = {
   "R.E.P.O.": {
     title: "R.E.P.O.",
     description: "É um jogo de terror cooperativo online onde até seis jogadores trabalham juntos para recuperar objetos valiosos de ambientes assombrados.",
-    download: "<a href='https://tech.animerigel.com/qRHV5' target='_blank'>⬇️ Baixar R.E.P.O.</a>",
+    download: "<a href='https://tech.animerigel.com/qRHV5' target='_blank'>⬇️ Jogar R.E.P.O.</a>",
     description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10<br>Processador: Intel Core i5-6600<br>Memória RAM: 8 GB<br>Placa de Vídeo: NVIDIA GeForce GTX 970 (4GB VRAM)<br>DirectX: Versão 10<br>Amazernamento: 1 GB disponível"
   },
   "Peak": {
     title: "Peak",
     description: "É um jogo cooperativo de escalada, onde jogadores trabalham juntos para sobreviver e alcançar o topo de uma montanha em constante mudança.",
-    download: "<a href='https://tech.animerigel.com/Peak' target='_blank'>⬇️ Baixar Peak</a>",
+    download: "<a href='https://tech.animerigel.com/Peak' target='_blank'>⬇️ Jogar Peak</a>",
     description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 (64 bits)<br>Processador: Intel Core i5 @ 2.5 GHz ou equivalente<br>Memória RAM: 8GB<br>Placa de vídeo: NVIDIA GeForce GTX 1050 Ti ou AMD Radeon R9 380<br>DirectX: versão 12<br>Armazenamento: 4GB livres"
   },
   "Palworld": {
     title: "Palworld",
     description: "É um jogo de sobrevivência e crafting em mundo aberto, onde os jogadores exploram um ambiente hostil com criaturas chamadas Pals.",
-    download: "<a href='https://tech.animerigel.com/Palworld' target='_blank'>⬇️ Baixar Palworld</a>",
+    download: "<a href='https://tech.animerigel.com/Palworld' target='_blank'>⬇️ Jogar Palworld</a>",
     description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 or later (64-Bit)<br>Processador: i5-3570K 3.4 GHz 4 Core<br>Memória: 16 GB de RAM<br>Placa de vídeo: GeForce GTX 1050 (2GB)<br>DirectX: Versão 11<br>Armazenamento: 40 GB de espaço disponível"
   },
   "Devour": {
@@ -32,13 +32,13 @@ const gameData = {
   "Grounded": {
     title: "Grounded",
     description: "Sobrevivência em um quintal onde você é do tamanho de uma formiga.",
-    download: "<a href='https://tech.animerigel.com/Grounded' target='_blank'>⬇️ Baixar Grounded</a>",
+    download: "<a href='https://tech.animerigel.com/Grounded' target='_blank'>⬇️ Jogar Grounded</a>",
     description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 64bits<br>Processador: Intel Core i3-3225<br>Memória: 4 GB de RAM<br>Placa de vídeo: Nvidia GTX 650 Ti<br>Armazenamento: 8 GB de espaço disponível"
   },
   "Grounded 2": {
     title: "Grounded 2",
     description: "É um jogo de ação e sobrevivência em mundo aberto onde você e seus amigos vivem uma experiência única: sobreviver em um ambiente gigantesco após serem encolhidos ao tamanho de insetos!",
-    download: "<a href='https://tech.animerigel.com/5OC4QHUE' target='_blank'>⬇️ Baixar Grounded 2</a>",
+    download: "<a href='https://tech.animerigel.com/5OC4QHUE' target='_blank'>⬇️ Jogar Grounded 2</a>",
     description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10/11 with updates<br>Processador: AMD Ryzen 5 2600 / Intel i5-8400<br>Memória: 16 GB de RAM<br>Placa de vídeo: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580<br>DirectX: Versão 12<br>Armazenamento: 40 GB de espaço disponível"
   },
   "Stray": {
@@ -50,13 +50,13 @@ const gameData = {
   "Drive Beyond Herizons": {
     title: "Drive Beyond Herizons",
     description: "É um jogo de exploração e aventura em mundo aberto, onde os jogadores podem dirigir veículos personalizáveis por paisagens extensas e geradas processualmente.",
-    download: "<a href='https://tech.animerigel.com/hhbmTs' target='_blank'>⬇️ Baixar Drive Beyond Herizons</a>",
+    download: "<a href='https://tech.animerigel.com/hhbmTs' target='_blank'>⬇️ Jogar Drive Beyond Herizons</a>",
     description2: "⚠️REQUISITOS MINIMOS⚠️<BR>SO: Windows 10/11 (64-Bit)<br>Processador: Intel Core i5-6600@ 3.1 GHz or AMD R5 1600X @ 3.5 GHz or equivalent<br>Memória: 8 GB de RAM<br>Placa de vídeo: NVIDIA GeForce GTX 1650 or equivalent<br>Armazenamento: 15 GB de espaço disponível"
   },
   "Cuphead": {
     title: "Cuphead",
     description: "É um clássico jogo de ação de corridas e armas altamente focalizado em batalhas de chefes.",
-    download: "<a href='https://tech.animerigel.com/EYCdlwh' target='_blank'>⬇️ Baixar Cuphead</a>",
+    download: "<a href='https://tech.animerigel.com/EYCdlwh' target='_blank'>⬇️ Jogar Cuphead</a>",
     description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO *: Windows 7<br>Processador: Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher<br>Memória: 3 GB de RAM<br>Placa de vídeo: Geforce 9600 GT or AMD HD 3870 512MB or higher<br>DirectX: Versão 11<br>Armazenamento: 4 GB de espaço disponível"
     },
   "PokéMMO": {
@@ -73,7 +73,7 @@ const gameData = {
   "Raft": {
     title: "Raft",
     description: "É um jogo de sobrevivência em mundo aberto, onde o jogador deve explorar um oceano vasto, construir uma jangada flutuante, coletar recursos, enfrentar desafios e sobreviver a perigos como tubarões famintos.",
-    download: "<a href='https://tech.animerigel.com/YywIcyW' target='_blank'>⬇️ Baixar Raft</a>",
+    download: "<a href='https://tech.animerigel.com/YywIcyW' target='_blank'>⬇️ Jogar Raft</a>",
     description2:"⚠️REQUISITOS MINIMOS⚠️<br>SO *: Windows 7 or later<br>Processador: Intel Core i5 2.6GHz or similar<br>Memória: 6 GB de RAM<br>Placa de vídeo: GeForce GTX 700 series or similar<br>DirectX: Versão 11<br>Armazenamento: 10 GB de espaço disponível"
   },
   "Dragon Ball:Sparking! ZERO": {
