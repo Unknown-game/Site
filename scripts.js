@@ -35,6 +35,12 @@ const gameData = {
     download: "<a href='https://tech.animerigel.com/Grounded' target='_blank'>⬇️ Baixar Grounded</a>",
     description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10 64bits<br>Processador: Intel Core i3-3225<br>Memória: 4 GB de RAM<br>Placa de vídeo: Nvidia GTX 650 Ti<br>Armazenamento: 8 GB de espaço disponível"
   },
+  "Grounded 2": {
+    title: "Grounded 2",
+    description: "É um jogo de ação e sobrevivência em mundo aberto onde você e seus amigos vivem uma experiência única: sobreviver em um ambiente gigantesco após serem encolhidos ao tamanho de insetos!",
+    download: "<a href='https://tech.animerigel.com/5OC4QHUE' target='_blank'>⬇️ Baixar Grounded 2</a>",
+    description2: "⚠️REQUISITOS MINIMOS⚠️<br>SO: Windows 10/11 with updates<br>Processador: AMD Ryzen 5 2600 / Intel i5-8400<br>Memória: 16 GB de RAM<br>Placa de vídeo: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580<br>DirectX: Versão 12<br>Armazenamento: 40 GB de espaço disponível"
+  },
   "Stray": {
     title: "Stray",
     description: "É um jogo de aventura em terceira pessoa que coloca o jogador no controle de um gato de rua em uma cidade cibernética decadente",
